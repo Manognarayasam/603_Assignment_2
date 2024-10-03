@@ -1,0 +1,826 @@
+{
+    "Book 1 by The Philosopher s Stone": {
+        "page": 2,
+        "indent_level": 0
+    },
+    "THE BOY WHO LIVED": {
+        "page": 3,
+        "indent_level": 1
+    },
+    "THE VANASHIG GLASS": {
+        "page": 33,
+        "indent_level": 1
+    },
+    "THE LETTERS FROM NO ONE": {
+        "page": 55,
+        "indent_level": 1
+    },
+    "THE KEEPER OF THE KEYS": {
+        "page": 81,
+        "indent_level": 1
+    },
+    "DIAGON ALLY": {
+        "page": 105,
+        "indent_level": 1
+    },
+    "THE JOURNEY FROM PLATFORM NINE AND THREE-QUARTERS": {
+        "page": 152,
+        "indent_level": 1
+    },
+    "THE SORTING HAT": {
+        "page": 193,
+        "indent_level": 1
+    },
+    "THE POTIONS MASTER": {
+        "page": 223,
+        "indent_level": 1
+    },
+    "THE MIDNIGHT DUEL": {
+        "page": 242,
+        "indent_level": 1
+    },
+    "HALLOWEEN": {
+        "page": 275,
+        "indent_level": 1
+    },
+    "QUIDDITCH": {
+        "page": 303,
+        "indent_level": 1
+    },
+    "THE MIRROR OF ERISED": {
+        "page": 325,
+        "indent_level": 1
+    },
+    "NICHOLAS FLAMEL": {
+        "page": 360,
+        "indent_level": 1
+    },
+    "NORBERT THE NORWEGIAN RIDGEBACK": {
+        "page": 381,
+        "indent_level": 1
+    },
+    "THE FORBIDDEN FOREST": {
+        "page": 404,
+        "indent_level": 1
+    },
+    "THROUGH THE TRAPDOOR": {
+        "page": 437,
+        "indent_level": 1
+    },
+    "THE MAN WITH TWO FACES": {
+        "page": 479,
+        "indent_level": 1
+    },
+    "Book 2 by The Chamber of Secrets": {
+        "page": 517,
+        "indent_level": 0
+    },
+    "THE WORST BIRTHDAY": {
+        "page": 518,
+        "indent_level": 1
+    },
+    "DOBBY’S WARNING": {
+        "page": 536,
+        "indent_level": 1
+    },
+    "THE BURROW": {
+        "page": 556,
+        "indent_level": 1
+    },
+    "AT FLOURISH AND BLOTTS": {
+        "page": 587,
+        "indent_level": 1
+    },
+    "THE WHOMPING WILLOW": {
+        "page": 625,
+        "indent_level": 1
+    },
+    "GILDEROY LOCKHART": {
+        "page": 661,
+        "indent_level": 1
+    },
+    "MUDBLOODS AND MURMURS": {
+        "page": 691,
+        "indent_level": 1
+    },
+    "THE DEATHDAY PARTY": {
+        "page": 721,
+        "indent_level": 1
+    },
+    "THE WRITING ON THE WALL": {
+        "page": 751,
+        "indent_level": 1
+    },
+    "THE ROGUE BLUDGER": {
+        "page": 786,
+        "indent_level": 1
+    },
+    "THE DUELING CLUB": {
+        "page": 820,
+        "indent_level": 1
+    },
+    "THE POLYJUICE POTION": {
+        "page": 859,
+        "indent_level": 1
+    },
+    "THE VERY SECRET DIARY": {
+        "page": 895,
+        "indent_level": 1
+    },
+    "CORNELIUS FUDGE": {
+        "page": 930,
+        "indent_level": 1
+    },
+    "ARAGOG": {
+        "page": 956,
+        "indent_level": 1
+    },
+    "THE CHAMBER OF SECRETS": {
+        "page": 986,
+        "indent_level": 1
+    },
+    "THE HEIR OF SLYTHERIN": {
+        "page": 1024,
+        "indent_level": 1
+    },
+    "DOBBY’S REWARD": {
+        "page": 1058,
+        "indent_level": 1
+    },
+    "Book 3 by The Prisoner of Azkaban": {
+        "page": 1085,
+        "indent_level": 0
+    },
+    "OWL POST": {
+        "page": 1086,
+        "indent_level": 1
+    },
+    "AUNT MARGE’S BIG MISTAKE": {
+        "page": 1110,
+        "indent_level": 1
+    },
+    "THE KNIGHT BUS": {
+        "page": 1135,
+        "indent_level": 1
+    },
+    "THE LEAKY CAULDRON": {
+        "page": 1164,
+        "indent_level": 1
+    },
+    "THE DEMENTOR": {
+        "page": 1199,
+        "indent_level": 1
+    },
+    "TALONS AND TEA LEAVES": {
+        "page": 1243,
+        "indent_level": 1
+    },
+    "THE BOGGART IN THE WARDROBE": {
+        "page": 1288,
+        "indent_level": 1
+    },
+    "FLIGHT OF THE FAT LADY": {
+        "page": 1317,
+        "indent_level": 1
+    },
+    "GRIM DEFEAT": {
+        "page": 1351,
+        "indent_level": 1
+    },
+    "THE MARAUDER’S MAP": {
+        "page": 1387,
+        "indent_level": 1
+    },
+    "THE FIREBOLT": {
+        "page": 1433,
+        "indent_level": 1
+    },
+    "THE PATRONUS": {
+        "page": 1470,
+        "indent_level": 1
+    },
+    "GRYFFINDOR VERSUS RAVENCLAW": {
+        "page": 1502,
+        "indent_level": 1
+    },
+    "SNAPE’S GRUDGE": {
+        "page": 1530,
+        "indent_level": 1
+    },
+    "THE QUIDDITCH FINAL": {
+        "page": 1567,
+        "indent_level": 1
+    },
+    "PROFESSOR TRELAWNEY’S PREDICTION": {
+        "page": 1604,
+        "indent_level": 1
+    },
+    "CAT, RAT, AND DOG": {
+        "page": 1634,
+        "indent_level": 1
+    },
+    "MOONY, WORMTAIL, PADFOOT, AND PRONGS": {
+        "page": 1663,
+        "indent_level": 1
+    },
+    "THE SERVANT OF LORD VOLDERMORT": {
+        "page": 1677,
+        "indent_level": 1
+    },
+    "THE DEMENTOR’S KISS": {
+        "page": 1710,
+        "indent_level": 1
+    },
+    "HERMIONE’S SECRET": {
+        "page": 1725,
+        "indent_level": 1
+    },
+    "OWL POST AGAIN": {
+        "page": 1775,
+        "indent_level": 1
+    },
+    "Book 4 by The Goblet of Fire": {
+        "page": 1809,
+        "indent_level": 0
+    },
+    "THE RIDDLE HOUSE": {
+        "page": 1810,
+        "indent_level": 1
+    },
+    "THE SCAR": {
+        "page": 1837,
+        "indent_level": 1
+    },
+    "THE INVITATION": {
+        "page": 1855,
+        "indent_level": 1
+    },
+    "BACK TO THE BURROW": {
+        "page": 1875,
+        "indent_level": 1
+    },
+    "WEASLEYS’ WIZARD WHEEZES": {
+        "page": 1896,
+        "indent_level": 1
+    },
+    "THE PORTKEY": {
+        "page": 1921,
+        "indent_level": 1
+    },
+    "BAGMAN AND CROUCH": {
+        "page": 1937,
+        "indent_level": 1
+    },
+    "THE QUIDDITCH WORLD CUP": {
+        "page": 1973,
+        "indent_level": 1
+    },
+    "THE DARK MARK": {
+        "page": 2013,
+        "indent_level": 1
+    },
+    "MAYHEM AT THE MINISTRY": {
+        "page": 2061,
+        "indent_level": 1
+    },
+    "ABOARD THE HOGWARTS EXPRESS": {
+        "page": 2083,
+        "indent_level": 1
+    },
+    "THE TRIWIZARD TOURNAMENT": {
+        "page": 2106,
+        "indent_level": 1
+    },
+    "MAD-EYE MOODY": {
+        "page": 2145,
+        "indent_level": 1
+    },
+    "THE UNFORGIVABLE CURSES": {
+        "page": 2172,
+        "indent_level": 1
+    },
+    "BEAUXBATONS AND DRUMSTRANG": {
+        "page": 2205,
+        "indent_level": 1
+    },
+    "THE GOBLET OF FIRE": {
+        "page": 2240,
+        "indent_level": 1
+    },
+    "THE FOUR CHAMPIONS": {
+        "page": 2281,
+        "indent_level": 1
+    },
+    "THE WEIGHING OF THE WANDS": {
+        "page": 2310,
+        "indent_level": 1
+    },
+    "THE HUNGARIAN HORNTAIL": {
+        "page": 2355,
+        "indent_level": 1
+    },
+    "THE FIRST TASK": {
+        "page": 2395,
+        "indent_level": 1
+    },
+    "THE HOUSE-ELF LIBERATION FRONT": {
+        "page": 2441,
+        "indent_level": 1
+    },
+    "THE UNEXPECTED TASK": {
+        "page": 2479,
+        "indent_level": 1
+    },
+    "THE YULE BALL": {
+        "page": 2509,
+        "indent_level": 1
+    },
+    "RITA SKEETER’S SCOOP": {
+        "page": 2564,
+        "indent_level": 1
+    },
+    "THE EGG AND THE EYE": {
+        "page": 2606,
+        "indent_level": 1
+    },
+    "THE SECOND TASK": {
+        "page": 2644,
+        "indent_level": 1
+    },
+    "PADFOOT RETURNS": {
+        "page": 2696,
+        "indent_level": 1
+    },
+    "THE MADNESS OF MR. CROUCH": {
+        "page": 2742,
+        "indent_level": 1
+    },
+    "THE DREAM": {
+        "page": 2793,
+        "indent_level": 1
+    },
+    "THE PENSIEVE": {
+        "page": 2823,
+        "indent_level": 1
+    },
+    "THE THIRD TASK": {
+        "page": 2866,
+        "indent_level": 1
+    },
+    "FLESH, BLOOD, AND BONE": {
+        "page": 2917,
+        "indent_level": 1
+    },
+    "THE DEATH EATERS": {
+        "page": 2931,
+        "indent_level": 1
+    },
+    "PRIORI INCANTATEM": {
+        "page": 2958,
+        "indent_level": 1
+    },
+    "VERITASERUM": {
+        "page": 2977,
+        "indent_level": 1
+    },
+    "THE PARTING OF THE WAYS": {
+        "page": 3015,
+        "indent_level": 1
+    },
+    "THE BEGINNING": {
+        "page": 3056,
+        "indent_level": 1
+    },
+    "Book 5 by The Order of The Phoenix": {
+        "page": 3093,
+        "indent_level": 0
+    },
+    "DUDLEY DEMENTED": {
+        "page": 3094,
+        "indent_level": 1
+    },
+    "A PECK OF OWLS": {
+        "page": 3132,
+        "indent_level": 1
+    },
+    "THE ADVANCED GUARD": {
+        "page": 3174,
+        "indent_level": 1
+    },
+    "NUMBER TWELVE, GRIMMAULD PLACE": {
+        "page": 3209,
+        "indent_level": 1
+    },
+    "THE ORDER OF THE PHOENIX": {
+        "page": 3248,
+        "indent_level": 1
+    },
+    "THE NOBLE AND MOST ANCIENT HOUSE OF BLACK": {
+        "page": 3284,
+        "indent_level": 1
+    },
+    "THE MINISTRY OF MAGIC": {
+        "page": 3328,
+        "indent_level": 1
+    },
+    "THE HEARING": {
+        "page": 3358,
+        "indent_level": 1
+    },
+    "THE WOES OF MRS. WEASLEY": {
+        "page": 3387,
+        "indent_level": 1
+    },
+    "LUNA LOVEGOOD": {
+        "page": 3441,
+        "indent_level": 1
+    },
+    "THE SORTING HAT’S NEW SONG": {
+        "page": 3481,
+        "indent_level": 1
+    },
+    "PROFESSOR UMBRIDGE": {
+        "page": 3521,
+        "indent_level": 1
+    },
+    "DETENTION WITH DOLORES": {
+        "page": 3578,
+        "indent_level": 1
+    },
+    "PERCY AND PADFOOT": {
+        "page": 3635,
+        "indent_level": 1
+    },
+    "THE HOGWARTS HIGH INQUISITOR": {
+        "page": 3688,
+        "indent_level": 1
+    },
+    "IN THE HOG’S HEAD": {
+        "page": 3736,
+        "indent_level": 1
+    },
+    "EDUCATIONAL DECREE NUMBER TWENTY-FOUR": {
+        "page": 3775,
+        "indent_level": 1
+    },
+    "DUMBLEDORE’S ARMY": {
+        "page": 3820,
+        "indent_level": 1
+    },
+    "THE LION AND THE SERPENT": {
+        "page": 3867,
+        "indent_level": 1
+    },
+    "HAGRID’S TALE": {
+        "page": 3911,
+        "indent_level": 1
+    },
+    "THE EYE OF THE SNAKE": {
+        "page": 3951,
+        "indent_level": 1
+    },
+    "ST. MUNGO’S HOSPITAL FOR MAGICAL MALADIES AND INJURIES": {
+        "page": 3999,
+        "indent_level": 1
+    },
+    "CHRISTMAS ON THE CLOSED WARD": {
+        "page": 4051,
+        "indent_level": 1
+    },
+    "OCCLUMENCY": {
+        "page": 4099,
+        "indent_level": 1
+    },
+    "THE BEETLE AT BAY": {
+        "page": 4152,
+        "indent_level": 1
+    },
+    "SEEN AND UNFORESEEN": {
+        "page": 4205,
+        "indent_level": 1
+    },
+    "THE CENTAUR AND THE SNEAK": {
+        "page": 4260,
+        "indent_level": 1
+    },
+    "SNAPE’S WORST MEMORY": {
+        "page": 4310,
+        "indent_level": 1
+    },
+    "CAREER ADVICE": {
+        "page": 4363,
+        "indent_level": 1
+    },
+    "GRAWP": {
+        "page": 4413,
+        "indent_level": 1
+    },
+    "O.W.L.S": {
+        "page": 4467,
+        "indent_level": 1
+    },
+    "OUT OF THE FIRE": {
+        "page": 4518,
+        "indent_level": 1
+    },
+    "FIGHT AND FLIGHT": {
+        "page": 4559,
+        "indent_level": 1
+    },
+    "THE DEPARTMENT OF MYSTERIES": {
+        "page": 4585,
+        "indent_level": 1
+    },
+    "BEYOND THE VEIL": {
+        "page": 4619,
+        "indent_level": 1
+    },
+    "THE ONLY ONE HE EVER FEARED": {
+        "page": 4670,
+        "indent_level": 1
+    },
+    "THE LOST PROPHECY": {
+        "page": 4695,
+        "indent_level": 1
+    },
+    "THE SECOND WAR BEGINS": {
+        "page": 4745,
+        "indent_level": 1
+    },
+    "Book 6 by The Half Blood Prince": {
+        "page": 4797,
+        "indent_level": 0
+    },
+    "THE OTHER MINISTER": {
+        "page": 4798,
+        "indent_level": 1
+    },
+    "SPINNER’S END": {
+        "page": 4832,
+        "indent_level": 1
+    },
+    "WILL AND WON’T": {
+        "page": 4864,
+        "indent_level": 1
+    },
+    "HORACE SLUGHORN": {
+        "page": 4896,
+        "indent_level": 1
+    },
+    "AN EXCESS OF PHLEGM": {
+        "page": 4937,
+        "indent_level": 1
+    },
+    "DRACO’S DETOUR": {
+        "page": 4980,
+        "indent_level": 1
+    },
+    "THE SLUG CLUB": {
+        "page": 5021,
+        "indent_level": 1
+    },
+    "SNAPE VICTORIOUS": {
+        "page": 5065,
+        "indent_level": 1
+    },
+    "THE HALF-BLOOD PRINCE": {
+        "page": 5094,
+        "indent_level": 1
+    },
+    "THE HOUSE OF GAUNT": {
+        "page": 5136,
+        "indent_level": 1
+    },
+    "HERMIONE’S HELPING HAND": {
+        "page": 5176,
+        "indent_level": 1
+    },
+    "SILVER AND OPALS": {
+        "page": 5210,
+        "indent_level": 1
+    },
+    "THE SECRET RIDDLE": {
+        "page": 5247,
+        "indent_level": 1
+    },
+    "FELIX FELICIS": {
+        "page": 5283,
+        "indent_level": 1
+    },
+    "THE UNBREAKABLE VOW": {
+        "page": 5327,
+        "indent_level": 1
+    },
+    "A VERY FROSTY CHRISTMAS": {
+        "page": 5367,
+        "indent_level": 1
+    },
+    "A SLUGGISH MEMORY": {
+        "page": 5409,
+        "indent_level": 1
+    },
+    "BIRTHDAY SURPRISES": {
+        "page": 5452,
+        "indent_level": 1
+    },
+    "ELF TAILS": {
+        "page": 5497,
+        "indent_level": 1
+    },
+    "LORD VOLDEMORT’S REQUEST": {
+        "page": 5539,
+        "indent_level": 1
+    },
+    "THE UNKNOWABLE ROOM": {
+        "page": 5583,
+        "indent_level": 1
+    },
+    "AFTER THE BURIAL": {
+        "page": 5621,
+        "indent_level": 1
+    },
+    "HORCRUXES": {
+        "page": 5661,
+        "indent_level": 1
+    },
+    "SECTUMSEMPRA": {
+        "page": 5698,
+        "indent_level": 1
+    },
+    "THE SEER OVERHEARD": {
+        "page": 5737,
+        "indent_level": 1
+    },
+    "THE CAVE": {
+        "page": 5773,
+        "indent_level": 1
+    },
+    "THE LIGHTNING-STRUCK TOWER": {
+        "page": 5815,
+        "indent_level": 1
+    },
+    "FLIGHT OF THE PRINCE": {
+        "page": 5846,
+        "indent_level": 1
+    },
+    "THE PHOENIX LAMENT": {
+        "page": 5870,
+        "indent_level": 1
+    },
+    "THE WHITE TOMB": {
+        "page": 5908,
+        "indent_level": 1
+    },
+    "Book 7 by The Deathly Hallows": {
+        "page": 5944,
+        "indent_level": 0
+    },
+    "THE DARK LORD ASCENDING": {
+        "page": 5945,
+        "indent_level": 1
+    },
+    "IN MEMORIAM": {
+        "page": 5967,
+        "indent_level": 1
+    },
+    "THE DURSLEYS DEPARTING": {
+        "page": 5993,
+        "indent_level": 1
+    },
+    "THE SEVEN POTTERS": {
+        "page": 6017,
+        "indent_level": 1
+    },
+    "FALLEN WARRIOR": {
+        "page": 6052,
+        "indent_level": 1
+    },
+    "THE GHOUL IN PAJAMAS": {
+        "page": 6093,
+        "indent_level": 1
+    },
+    "THE WILL OF ALBUS DUMBLEDORE": {
+        "page": 6137,
+        "indent_level": 1
+    },
+    "THE WEDDING": {
+        "page": 6183,
+        "indent_level": 1
+    },
+    "A PLACE TO HIDE": {
+        "page": 6225,
+        "indent_level": 1
+    },
+    "KREACHER’S TALE": {
+        "page": 6252,
+        "indent_level": 1
+    },
+    "THE BRIBE": {
+        "page": 6297,
+        "indent_level": 1
+    },
+    "MAGIC IS MIGHT": {
+        "page": 6335,
+        "indent_level": 1
+    },
+    "THE MUGGLE-BORN REGISTRATION COMMISSION": {
+        "page": 6377,
+        "indent_level": 1
+    },
+    "THE THIEF": {
+        "page": 6416,
+        "indent_level": 1
+    },
+    "THE GOBLIN’S REVENGE": {
+        "page": 6444,
+        "indent_level": 1
+    },
+    "GODRIC’S HOLLOW": {
+        "page": 6493,
+        "indent_level": 1
+    },
+    "BATHILDA’S SECRET": {
+        "page": 6527,
+        "indent_level": 1
+    },
+    "THE LIFE AND LIES OF ALBUS DUMBLEDORE": {
+        "page": 6563,
+        "indent_level": 1
+    },
+    "THE SILVER DOE": {
+        "page": 6586,
+        "indent_level": 1
+    },
+    "XENOPHILIUS LOVEGOOD": {
+        "page": 6631,
+        "indent_level": 1
+    },
+    "THE TALE OF THE THREE BROTHERS": {
+        "page": 6662,
+        "indent_level": 1
+    },
+    "THE DEATHLY HALLOWS": {
+        "page": 6694,
+        "indent_level": 1
+    },
+    "MALFOY MANOR": {
+        "page": 6734,
+        "indent_level": 1
+    },
+    "THE WANDMAKER": {
+        "page": 6788,
+        "indent_level": 1
+    },
+    "SHELL COTTAGE": {
+        "page": 6834,
+        "indent_level": 1
+    },
+    "GRINGOTTS": {
+        "page": 6863,
+        "indent_level": 1
+    },
+    "THE FINAL HIDING PLACE": {
+        "page": 6908,
+        "indent_level": 1
+    },
+    "THE MISSING MIRROR": {
+        "page": 6925,
+        "indent_level": 1
+    },
+    "THE LOST DIADEM": {
+        "page": 6955,
+        "indent_level": 1
+    },
+    "THE SACKING OF SEVERUS SNAPE": {
+        "page": 6986,
+        "indent_level": 1
+    },
+    "THE BATTLE OF HOGWARTS": {
+        "page": 7021,
+        "indent_level": 1
+    },
+    "THE ELDER WAND": {
+        "page": 7075,
+        "indent_level": 1
+    },
+    "THE PRINCE’S TALE": {
+        "page": 7111,
+        "indent_level": 1
+    },
+    "THE FOREST AGAIN": {
+        "page": 7168,
+        "indent_level": 1
+    },
+    "KING’S CROSS": {
+        "page": 7194,
+        "indent_level": 1
+    },
+    "THE FLAW IN THE PLAN": {
+        "page": 7227,
+        "indent_level": 1
+    },
+    "NINETEEN YEARS LATER": {
+        "page": 7275,
+        "indent_level": 1
+    }
+}
